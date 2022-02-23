@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*#
+*.pkl
+*.csv
+
+__pycache__
+unused-shit
+notes.odt
+login.txt
+
+.vimrc
+user_app.PNG

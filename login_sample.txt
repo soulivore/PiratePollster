@@ -1,0 +1,11 @@
+client_id="put_your_client_id_here_aka_personal_use_script"
+secret_token="put_your_secret_token_here"
+username="MyUserName"
+password="mypassword34598"
+user_agent="MyUserNameBot/0.0.1"
+
+Follow the instructions below:
+- Enter your personal info above. 
+    - Content needs to stay in quotes and in this order.
+    - Bots can be made and content can be obtained from https://www.reddit.com/prefs/apps/ 
+- For the love of god don't commit login.txt
